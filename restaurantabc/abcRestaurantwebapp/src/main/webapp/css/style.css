@@ -1,0 +1,26 @@
+.home-content-wrapper{
+	background-image: url("../images/2.jpg");
+	background-size: 100%;
+	height:100%;
+	
+}
+
+.overlay-box{
+	padding: 200px 0px;
+	box-sizing: border-box;
+	background: rgba(0,0,0,0.5);
+	height: 100%;
+	
+}
+
+.container{
+	width: 1200px;
+	margin: 0px auto;
+}
+
+.welcome-text{
+	color: gold;
+	font-size: 100px;
+	font-family: ralewaay-bold;
+	line-height: 90px;
+}
